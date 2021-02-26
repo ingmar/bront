@@ -9,8 +9,7 @@ Screenshot:
 ![](http://i.imgur.com/4ysgrgI.png)
 
 Delta from DejaVu Sans Mono:
-
-![](http://i.imgur.com/B46ac0M.png)
+![](DejaVuSansMono-comparison.png)
 
 - `0` has a slash
 - `*` is centered vertically to align with `+`, `-`, and `=`
@@ -31,7 +30,7 @@ Screenshot:
 
 Delta from Ubuntu Mono:
 
-![](http://i.imgur.com/UQC7aDQ.png)
+![](UbuntuMono-comparison.png)
 
 - `$` has a full pillar
 - `0` has a slash
